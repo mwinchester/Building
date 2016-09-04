@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Building</string>
+    <string name="btnChairTxt">CHAIR</string>
+    <string name="btnDresserTxt">DRESSER</string>
+    <string name="btnDogHouseTxt">DOG HOUSE</string>
+    <string name="txtTools">TOOLS</string>
+    <string name="txtWrench">Allen Wrench</string>
+    <string name="txtWhiskey">Bushmill\'s Honey Whiskey</string>
+    <string name="txtDrill">Drill</string>
+    <string name="txtLevel">Level</string>
+    <string name="txtScrewdriver">Screwdriver</string>
+    <string name="txtSaw">Circular Saw</string>
+    <string name="txtHammer">Hammer</string>
+
+</resources>
